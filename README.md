@@ -1,2 +1,2 @@
 # HeadFirstC-Exercises
-Exercises from teh Head First C# Book
+Exercises from the Head First C# Book
